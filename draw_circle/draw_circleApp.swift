@@ -11,7 +11,7 @@ import SwiftUI
 struct draw_circleApp: App {
     var body: some Scene {
         WindowGroup {
-            CirclesView()
+            LineView()
         }
     }
 }
